@@ -25,7 +25,7 @@ Figure 5. Manipulation of visibility restoration application in the Smart Car. U
 driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
 lower portion: driver’s vision field has been improved after turning on the application.
 
-![image]("D:\ntut\一年級\程式設計\ch0-3\smartCar\image\image6.png")
+![image](https://github.com/smartCarLab/smartCar/raw/master/image/image6.png?raw=true)
 
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
